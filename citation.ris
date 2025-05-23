@@ -1,0 +1,63 @@
+TY  - JOUR
+AU  - Bosma, Joeran S.
+AU  - Dercksen, Koen
+AU  - Builtjes, Luc
+AU  - André, Romain
+AU  - Roest, Christian
+AU  - Fransen, Stefan J.
+AU  - Noordman, Constant R.
+AU  - Navarro-Padilla, Mar
+AU  - Lefkes, Judith
+AU  - Alves, Natália
+AU  - de Grauw, Max J. J.
+AU  - van Eekelen, Leander
+AU  - Spronck, Joey M. A.
+AU  - Schuurmans, Megan
+AU  - de Wilde, Bram
+AU  - Hendrix, Ward
+AU  - Aswolinskiy, Witali
+AU  - Saha, Anindo
+AU  - Twilt, Jasper J.
+AU  - van Lohuizen, Quintin
+AU  - Stegeman, Michelle
+AU  - Rutten, Karlijn
+AU  - Smit, Inge M. E.
+AU  - Stultiens, Gijs
+AU  - Overduin, Christiaan G.
+AU  - Rutten, Matthieu J. C. M.
+AU  - Scholten, Ernst Th.
+AU  - van der Post, Rachel S.
+AU  - Grünberg, Katrien
+AU  - Vos, Shoko
+AU  - Taken, Elise M. G.
+AU  - Nagtegaal, Iris D.
+AU  - Mickan, Anne
+AU  - Groeneveld, Miriam
+AU  - Gerke, Paul K.
+AU  - Meakin, James A.
+AU  - Looijen-Salamon, M. G.
+AU  - de Haas, Tijmen L. M.
+AU  - Hoitsma, Fabian
+AU  - D’Amato, Marina
+AU  - Geijs, Daan
+AU  - Veltman, Jeroen
+AU  - Yakar, Derya
+AU  - de Rooij, Maarten
+AU  - Ciompi, Francesco
+AU  - Hering, Alessa
+AU  - Geerdink, Jeroen
+AU  - Huisman, Henkjan
+AU  - On behalf of the DRAGON consortium
+PY  - 2025
+DA  - 2025/05/17
+TI  - The DRAGON benchmark for clinical NLP
+JO  - npj Digital Medicine
+SP  - 289
+VL  - 8
+IS  - 1
+AB  - Artificial Intelligence can mitigate the global shortage of medical diagnostic personnel but requires large-scale annotated datasets to train clinical algorithms. Natural Language Processing (NLP), including Large Language Models (LLMs), shows great potential for annotating clinical data to facilitate algorithm development but remains underexplored due to a lack of public benchmarks. This study introduces the DRAGON challenge, a benchmark for clinical NLP with 28 tasks and 28,824 annotated medical reports from five Dutch care centers. It facilitates automated, large-scale, cost-effective data annotation. Foundational LLMs were pretrained using four million clinical reports from a sixth Dutch care center. Evaluations showed the superiority of domain-specific pretraining (DRAGON 2025 test score of 0.770) and mixed-domain pretraining (0.756), compared to general-domain pretraining (0.734, p < 0.005). While strong performance was achieved on 18/28 tasks, performance was subpar on 10/28 tasks, uncovering where innovations are needed. Benchmark, code, and foundational LLMs are publicly available.
+SN  - 2398-6352
+UR  - https://doi.org/10.1038/s41746-025-01626-x
+DO  - 10.1038/s41746-025-01626-x
+ID  - Bosma2025
+ER  - 
